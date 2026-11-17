@@ -1,0 +1,8 @@
+# 登录页 PSD 工具流依赖
+# 在目标 Python 环境执行：pip install -r requirements.txt
+numpy
+opencv-python
+Pillow
+pytoshop
+packbits
+psd-tools
